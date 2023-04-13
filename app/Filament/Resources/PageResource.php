@@ -127,7 +127,6 @@ class PageResource extends Resource
                         RichEditor::make('section_five_description')->label('Description'),
                         Forms\Components\TextInput::make('section_five_email')->label('Email'),
                         Forms\Components\TextInput::make('section_five_text')->label('Text'),
-                        Forms\Components\TextInput::make('section_five_bg_color')->label('Background color'),
 
                     ]),
             ]);
