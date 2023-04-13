@@ -55,5 +55,13 @@ class Page extends Model
         'section_five_text',
         'twitter_link',
         'github_link',
+        'telegram_link',
+        'nav_bg_color',
+        'header_bg_color',
+        'section_one_bg_color',
+        'section_two_bg_color',
+        'section_three_bg_color',
+        'section_four_bg_color',
+        'section_five_bg_color',
     ];
 }
